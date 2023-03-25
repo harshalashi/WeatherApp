@@ -5,6 +5,9 @@ The Weather App is a web-based application that uses HTML, CSS, and JavaScript, 
 Demo: 
 
 ![image](https://user-images.githubusercontent.com/92630670/227706756-0287de00-86ef-42c8-9e35-1063c554b17a.png)
+![image](https://user-images.githubusercontent.com/92630670/227706818-5b696987-1e85-4c27-bac1-224b03dc374e.png)
+![image](https://user-images.githubusercontent.com/92630670/227706843-6ec39cc4-faf3-4e65-90aa-c15304a8ed72.png)
+
 
 
 Features
