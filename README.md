@@ -2,6 +2,11 @@
 
 The Weather App is a web-based application that uses HTML, CSS, and JavaScript, along with the Weather API, to provide real-time weather information for a given location. This app is designed to be user-friendly and easy to navigate, allowing users to enter a location and receive accurate and up-to-date weather information.
 
+Demo: 
+
+![image](https://user-images.githubusercontent.com/92630670/227706756-0287de00-86ef-42c8-9e35-1063c554b17a.png)
+
+
 Features
 
 The Weather App allows users to:
